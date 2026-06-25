@@ -14,11 +14,11 @@ A powerful Burp Suite extension that leverages AI to analyze HTTP requests and r
 
 ### User Interface
 - **Dark Theme**: Eye-friendly dark interface optimized for long penetration testing sessions
-- **Color-Coded Buttons**: Intuitive button colors for different actions
-  - Green: Primary actions (Send, Save)
-  - Orange: Configuration (Edit Prompts)
-  - Purple: Settings (API Configuration)
-  - Gray: Secondary actions (Clear, Load)
+- **Buttons**: Intuitive button for different actions
+  - Primary actions (Send, Save)
+  - Configuration (Edit Prompts)
+  - Settings (API Configuration)
+  - Secondary actions (Clear, Load)
 - **Split Panel Layout**: Request input on top, AI analysis results below
 - **Status Indicator**: Real-time feedback on analysis progress and results
 
