@@ -22,6 +22,9 @@ A powerful Burp Suite extension that leverages AI to analyze HTTP requests and r
 - **Split Panel Layout**: Request input on top, AI analysis results below
 - **Status Indicator**: Real-time feedback on analysis progress and results
 
+<img width="1369" height="780" alt="image" src="https://github.com/user-attachments/assets/3cd39c01-0378-4920-993c-3d780f9480f1" />
+
+
 ### Configuration
 - **API Settings Dialog**: Configure API endpoint, API key, model selection, and max tokens
 - **Persistent Settings**: All settings survive Burp Suite restarts
